@@ -1,0 +1,20 @@
+# Local runtimes and original game assets
+/tools/
+/rom/
+/kof97/
+/kof97.zip
+/rea-main/
+/rea-main.zip
+
+# Generated emulator files
+/snap/
+/launcher/ui/
+/launcher/ui.ini
+/baseline/boot.inp
+/baseline/capture/
+/baseline/capture-*/
+/baseline/cfg/
+/baseline/nvram/
+
+# Godot editor cache
+.godot/
